@@ -1,4 +1,6 @@
-### Hi there 👋
+### ✨ &ldquo;A rookie alchemist&rdquo; 
+
+I use Ruby at work, and I play with Elixir at home. So I have a perfect work-life balance, I would say.
 
 <!--
 **Dalgona/Dalgona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
