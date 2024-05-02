@@ -1,12 +1,6 @@
-<img src="https://raw.githubusercontent.com/Dalgona/Dalgona/b98fa472ebb342cbd1fac7de46956bed199f790b/assets/d57_logo_text_ghprofile.png" width="350">
-
 ### ✨ &ldquo;A rookie alchemist&rdquo; 
 
 I use Ruby at work, and I play with Elixir at home. So I have a perfect work-life balance, I would say.
-
-### 🏢 Friendly reminder for recruiters
-
-Please do NOT contact me for any job offers until I remove this message.
 
 <!--
 **Dalgona/Dalgona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
